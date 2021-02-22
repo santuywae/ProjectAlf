@@ -142,7 +142,7 @@ async def update(event, repo, ups_rem, ac_br):
         repo.git.reset("--hard", "FETCH_HEAD")
     await update_requirements()
     await event.edit(
-        "`Successfully Updated!\n" "ProjectAlf is restarting... Wait for a second!`"
+        "`Successfully Updated!\n" "This bitch is restarting... Wait for a fuckin second bitch!`"
     )
     await asyncio.sleep(15)
     await event.delete()

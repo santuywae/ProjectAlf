@@ -139,14 +139,14 @@ async def filters_active(event):
 CMD_HELP.update(
     {
         "filter": ">`.filters`"
-        "\nUsage: Lists all active userbot filters in a chat."
-        "\n\n>`.filter <keyword> <reply text>` or reply to a message with >`.filter <keyword>`"
-        "\nUsage: Saves the replied message as a reply to the 'keyword'."
-        "\nThe bot will reply to the message whenever 'keyword' is mentioned."
+        "\nUsage: Lists all goddam active userbot filters in a chat."
+        "\n\n>`.filter <keyword> <reply text>` or reply to a fuckin message with >`.filter bitch <keyword>`"
+        "\nUsage: Saves the replied message as a reply to the 'keyword' nigga."
+        "\nThe this bitch will reply to the message whenever a fuckin 'keyword' is mentioned."
         "\nWorks with everything from files to stickers."
         "\n\n>`.stop <filter>`"
-        "\nUsage: Stops the specified filter."
+        "\nUsage: Stops this bullshit specified filter."
         "\n\n>`.rmbotfilters <marie/rose>`"
-        "\nUsage: Removes all filters of admin bots (Currently supported: Marie, Rose and their clones.) in the chat."
+        "\nUsage: Removes all fuckin filters of admin bots (Currently supported: Marie, Rose and their goddamns son.) in the chat."
     }
 )

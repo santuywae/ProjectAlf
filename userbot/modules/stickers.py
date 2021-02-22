@@ -23,16 +23,16 @@ from userbot import CMD_HELP, bot
 from userbot.events import register
 
 KANGING_STR = [
-    "Bentar nyeduh Kopi Dulu...",
-    "Ngeliatin ini sticker...",
-    "Masukin ni Sticker ke pack stickerku...",
-    "Ngekang Ni Sticker...",
-    "Hey Ini Sticker Bagus!\nGimana Jika Aku kang?!..",
-    "Tak kang yo stickermu.",
-    "Ay Coba liat stickermu (☉｡☉)!→\nApa Luu...",
-    "Bapac Toing ke Mekkah, Di mekkah eh masuk angin, Bisa ini gw kangin?!",
+    "I will kang this fuckin sticker hehehe...",
+    "Look there while i steal this fuckin tikel...",
+    "I will curry tikel kamj...",
+    "Stealing huhuuuu...",
+    "Hey this tikel is fuckin guuuddd..",
+    "Vejayjay bau seblak.",
+    "Can i borrow youre tikel?...",
+    "Daddy i wont that tikel",
     "Compile This Sticker \nHehe...",
-    "Mr.Cabul Sticker mu bagus ni, minta yakk... ",
+    "Hei son of a bitch give me that tikel... ",
 ]
 
 

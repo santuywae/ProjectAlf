@@ -224,7 +224,7 @@ async def amireallyalive(alive):
     user = await bot.get_me()
     uptime = await get_readable_time((time.time() - StartTime))
     output = (
-        f"`STFU!!! My Bot Is Running Bitch `\n"
+          f"`STFU!!! My Bot Is Running Bitch `\n"
         f"\n"
         f"• 🔥 `Ma Bot time            :` {uptime}\n"
         f"• 😈 `Fucking User           :` {DEFAULTUSER}\n"
@@ -232,7 +232,8 @@ async def amireallyalive(alive):
         f"• 🧠 `Telethon Nigga         :` v{version.__version__}\n"
         f"• 👹 `This Bitch Username    :` @{user.username}\n"
         f"• 🎃 `This Slut Running On   :` {UPSTREAM_REPO_BRANCH}\n"
-        f"`All fuckin modules loaded:` {len(modules)}"
+        
+           f"`All fuckin modules loaded:` {len(modules)}"
     )
     if ALIVE_LOGO:
         try:
